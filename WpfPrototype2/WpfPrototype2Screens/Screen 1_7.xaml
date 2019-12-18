@@ -1,0 +1,31 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:ps="clr-namespace:Microsoft.Expression.Prototyping.SketchControls;assembly=Microsoft.Expression.Prototyping.SketchControls" xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity" x:Name="Screen_1_7_Name"
+	x:Class="WpfPrototype2Screens.Screen_1_7"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<TextBlock HorizontalAlignment="Stretch" Margin="189,28.606,205.46,0" Style="{DynamicResource TitleCenter-Sketch}" VerticalAlignment="Top" Height="68.787"><Run Text="Find your place"/><LineBreak/><Run Text=""/></TextBlock>
+		<ps:SketchRectangleUC Margin="38,101.393,98,21.607" Style="{DynamicResource Rectangle-Sketch}"/>
+		<TextBlock HorizontalAlignment="Left" Margin="66,127,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" Text="1. Kyiv, pr. Peremohy 23     20/100"/>
+		<TextBlock HorizontalAlignment="Left" Margin="67,173,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" Width="200.583" Height="21.757" Text="2. Kyiv, ul. Ozerna 6            89/100"/>
+		<TextBlock HorizontalAlignment="Left" Margin="66,213,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" Width="201.583" Height="24.757" Text="3. Kyiv, ul. Kreschtyik 5     7/40"/>
+		<Button Margin="316,123.293,214,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Height="23.463" Content="Reserv as VIP"/>
+		<Button HorizontalAlignment="Right" Margin="0,123.292,114,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Width="75" Content="Reserv"/>
+		<Button Margin="316,170.447,214,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Height="23.463" Content="Reserv as VIP"/>
+		<Button Margin="316,213,214,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Height="23.463" Content="Reserv as VIP" RenderTransformOrigin="0.382,5.059"/>
+		<Button HorizontalAlignment="Right" Margin="0,214.293,114,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Width="75" Content="Reserv"/>
+		<Button HorizontalAlignment="Right" Margin="0,170.446,114,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Width="75" Content="Reserv"/>
+		<Button HorizontalAlignment="Left" Margin="38,28.606,0,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Width="75" Content="Back">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pb:NavigateToScreenAction TargetScreen="WpfPrototype2Screens.Screen_1_4"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+	</Grid>
+</UserControl>

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPrototype2", "WpfPrototype2\WpfPrototype2.csproj", "{2FAF44DA-6018-4C17-8D30-F8A98EDB8665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPrototype2Screens", "WpfPrototype2\WpfPrototype2Screens\WpfPrototype2Screens.csproj", "{F7F0D634-35FC-42BC-818E-6C0DE0FF42E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FAF44DA-6018-4C17-8D30-F8A98EDB8665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAF44DA-6018-4C17-8D30-F8A98EDB8665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAF44DA-6018-4C17-8D30-F8A98EDB8665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAF44DA-6018-4C17-8D30-F8A98EDB8665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F0D634-35FC-42BC-818E-6C0DE0FF42E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F0D634-35FC-42BC-818E-6C0DE0FF42E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F0D634-35FC-42BC-818E-6C0DE0FF42E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F0D634-35FC-42BC-818E-6C0DE0FF42E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

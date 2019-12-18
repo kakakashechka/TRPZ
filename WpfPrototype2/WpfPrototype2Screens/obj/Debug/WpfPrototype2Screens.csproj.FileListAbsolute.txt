@@ -1,0 +1,51 @@
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\bin\Debug\WpfPrototype2.Screens.dll
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\bin\Debug\WpfPrototype2.Screens.pdb
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_1.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_2.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_3.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\SketchStyles.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_1.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_2.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_3.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens_MarkupCompile.cache
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.g.resources
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.dll
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens.pdb
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_10.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_11.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_12.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_4.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_5.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_6.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_7.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_8.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_9.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2_1.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2_2.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2_3.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2_4.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_10.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_11.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_12.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_4.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_5.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_6.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_7.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_8.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 1_9.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2_1.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2_2.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2_3.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\Screen 2_4.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\WpfPrototype2.Screens_MarkupCompile.lref
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\ProjectDataSources.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\SampleData\SampleDataSource1\SampleDataSource1.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\SampleData\SampleDataSource2\SampleDataSource2.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\SampleData\SampleDataSource3\SampleDataSource3.baml
+C:\Users\ladyg\OneDrive\Документы\Expression\Blend 3\Projects\WpfPrototype2\WpfPrototype2\WpfPrototype2Screens\obj\Debug\SampleData\SampleDataSource\SampleDataSource.baml

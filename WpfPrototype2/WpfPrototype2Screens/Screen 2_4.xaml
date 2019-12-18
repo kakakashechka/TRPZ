@@ -1,0 +1,21 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity" x:Name="Screen_2_4_Name"
+	x:Class="WpfPrototype2Screens.Screen_2_4"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<TextBlock HorizontalAlignment="Left" Margin="8,103,0,0" Style="{DynamicResource TitleCenter-Sketch}" VerticalAlignment="Top" Width="597.52" Height="90.393" Text="VID.29.12.2019 was delete succsessfully"/>
+		<Button HorizontalAlignment="Right" Margin="0,223,127,233.536" Style="{DynamicResource Button-Sketch}" Width="75" Content="OK" d:LayoutOverrides="Height">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pb:NavigateToScreenAction TargetScreen="WpfPrototype2Screens.Screen_2_3"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+	</Grid>
+</UserControl>

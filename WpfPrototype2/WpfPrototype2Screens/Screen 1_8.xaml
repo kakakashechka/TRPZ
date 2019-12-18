@@ -1,0 +1,34 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity" x:Name="Screen_1_8_Name"
+	x:Class="WpfPrototype2Screens.Screen_1_8"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<TextBlock HorizontalAlignment="Left" Margin="38,0,0,219.243" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Bottom" Text="Card number"/>
+		<TextBlock HorizontalAlignment="Right" Margin="0,154,214.46,0" Style="{DynamicResource TitleCenter-Sketch}" VerticalAlignment="Top" Text="Total sum: 100$"/>
+		<TextBox HorizontalAlignment="Left" Margin="19,0,0,172.78" Style="{DynamicResource BasicTextBox-Sketch}" VerticalAlignment="Bottom" Width="231.327" Height="30.463" TextWrapping="Wrap"/>
+		<TextBlock HorizontalAlignment="Left" Margin="38,0,0,120.243" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Bottom" Text="Expires End"/>
+		<TextBox HorizontalAlignment="Left" Margin="17.156,0,0,78.536" Style="{DynamicResource BasicTextBox-Sketch}" VerticalAlignment="Bottom" Width="233.171" TextWrapping="Wrap" Height="28.463"/>
+		<TextBox Margin="315.157,0,262.516,114.536" Style="{DynamicResource BasicTextBox-Sketch}" VerticalAlignment="Bottom" TextWrapping="Wrap" d:LayoutOverrides="Width"/>
+		<TextBlock Margin="317,0,262.516,156.243" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Bottom" Text="CVV" d:LayoutOverrides="Width"/>
+		<Button HorizontalAlignment="Right" Margin="0,0,56.557,120.243" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Bottom" Width="132" Height="45.756" Content="Pay 100$">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pb:NavigateToScreenAction TargetScreen="WpfPrototype2Screens.Screen_1_7"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+		<Button HorizontalAlignment="Left" Margin="38,28.606,0,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Width="75" Content="Back">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pb:NavigateToScreenAction TargetScreen="WpfPrototype2Screens.Screen_1_4"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+	</Grid>
+</UserControl>

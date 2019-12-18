@@ -1,0 +1,27 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:ps="clr-namespace:Microsoft.Expression.Prototyping.SketchControls;assembly=Microsoft.Expression.Prototyping.SketchControls" x:Name="Screen_1_5_Name"
+	x:Class="WpfPrototype2Screens.Screen_1_5"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<ps:SketchCircleUC HorizontalAlignment="Right" Margin="0,25,21,0" Style="{DynamicResource Circle-Sketch}" VerticalAlignment="Top" Width="100" Height="96"/>
+		<TextBlock HorizontalAlignment="Left" Margin="31,159,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" Width="132.483" Height="23" Text="Phone number"/>
+		<TextBlock HorizontalAlignment="Left" Margin="31,204,0,0" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Top" Width="132.483" Height="23" Text="E-mail"/>
+		<TextBlock HorizontalAlignment="Left" Margin="31,0,0,204" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Bottom" Width="132.483" Height="23" Text="Date of birth"/>
+		<TextBlock HorizontalAlignment="Left" Margin="31,0,0,155" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Bottom" Width="132.483" Height="23"><Run Text="Driver license number"/><LineBreak/><Run Text=""/></TextBlock>
+		<TextBlock HorizontalAlignment="Left" Margin="31,0,0,108" Style="{DynamicResource BasicTextBlock-Sketch}" VerticalAlignment="Bottom" Width="132.483" Height="23" Text="Promocode"/>
+		<TextBlock HorizontalAlignment="Stretch" Margin="94,52,276.46,0" Style="{DynamicResource TitleCenter-Sketch}" VerticalAlignment="Top" Text="Mariia Grachova" Height="71.393"/>
+		<TextBox Margin="210,148.537,148.673,0" Style="{DynamicResource BasicTextBox-Sketch}" VerticalAlignment="Top" TextWrapping="Wrap" Height="33.463"/>
+		<TextBox Margin="210,200.447,148.673,0" Style="{DynamicResource BasicTextBox-Sketch}" VerticalAlignment="Top" Height="33.463" TextWrapping="Wrap"/>
+		<TextBox Margin="210,0,148.673,204" Style="{DynamicResource BasicTextBox-Sketch}" VerticalAlignment="Bottom" Height="33.463" TextWrapping="Wrap"/>
+		<TextBox Margin="210,0,148.673,155" Style="{DynamicResource BasicTextBox-Sketch}" VerticalAlignment="Bottom" Height="33.463" TextWrapping="Wrap"/>
+		<TextBox Margin="210,0,148.673,108" Style="{DynamicResource BasicTextBox-Sketch}" VerticalAlignment="Bottom" Height="33.463" TextWrapping="Wrap"/>
+		<Button HorizontalAlignment="Right" Margin="0,148.537,17,0" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Top" Width="104" Content="Add new photo" FontSize="14.667"/>
+		<Button HorizontalAlignment="Left" Margin="48,0,0,34.536" Style="{DynamicResource Button-Sketch}" VerticalAlignment="Bottom" Width="75" Content="Menu"/>
+	</Grid>
+</UserControl>
